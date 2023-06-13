@@ -1,0 +1,7 @@
+C:\Users\natanael.apaula\source\repos\Aula07-atividades\Aula07-atividades\bin\Debug\Aula07-atividades.exe.config
+C:\Users\natanael.apaula\source\repos\Aula07-atividades\Aula07-atividades\bin\Debug\Aula07-atividades.exe
+C:\Users\natanael.apaula\source\repos\Aula07-atividades\Aula07-atividades\bin\Debug\Aula07-atividades.pdb
+C:\Users\natanael.apaula\source\repos\Aula07-atividades\Aula07-atividades\obj\Debug\Aula07-atividades.csproj.AssemblyReference.cache
+C:\Users\natanael.apaula\source\repos\Aula07-atividades\Aula07-atividades\obj\Debug\Aula07-atividades.csproj.CoreCompileInputs.cache
+C:\Users\natanael.apaula\source\repos\Aula07-atividades\Aula07-atividades\obj\Debug\Aula07-atividades.exe
+C:\Users\natanael.apaula\source\repos\Aula07-atividades\Aula07-atividades\obj\Debug\Aula07-atividades.pdb
